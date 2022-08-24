@@ -25,3 +25,4 @@
 [![](https://img.shields.io/github/followers/Pretexts?color=27da6b&logo=Handshake)](https://github.com/Pretexts?tab=followers)
 [![](https://img.shields.io/badge/Pretexts-Pretexts-c780fa?logo=Awesome-Lists)](https://github.com/Pretexts/Pretexts#readme)
 
+[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/Pretexts/Pretexts/master/assets/github-contribution-grid-snake.svg)
