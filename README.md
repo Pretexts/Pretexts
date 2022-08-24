@@ -19,5 +19,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 ## Visit Count
-![Visitor Count](https://profile-counter.glitch.me/timwhitez/count.svg)
+[![](https://visitor-badge.laobi.icu/badge?page_id=Pretexts.Pretexts)](https://visitor-badge.laobi.icu/badge?page_id=Pretexts.Pretexts)
+[![Mail Badge](https://img.shields.io/badge/-Pretexts@xxxx.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Pretexts@xxxx.com)](mailto:Pretexts@xxxx.com)
+[![](https://img.shields.io/github/stars/Pretexts?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Pretexts&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/Pretexts?color=27da6b&logo=Handshake)](https://github.com/Pretexts?tab=followers)
+[![](https://img.shields.io/badge/Pretexts-Pretexts-c780fa?logo=Awesome-Lists)](https://github.com/Pretexts/Pretexts#readme)
 
