@@ -1,5 +1,7 @@
 ## About Me <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Don%27t+surrender+to+this+dark+woeld%2e;Hello+I'm+Pretexts)](https://git.io/typing-svg)
+
 - [ATT&CK-Tools-library](https://github.com/TimelineSec/ATTCK-Tools-library) Learning Red Team Security Researcher.
 - 📫 How to reach me: null
 
