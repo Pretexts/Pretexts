@@ -16,7 +16,7 @@
 - 202009-2020xx Internal Penetration/Phishing/Defense Evasion
 
 ## Languages
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a><a href="https://github.com/golang/go" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a><a href="https://github.com/TheAlgorithms/Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 ## Visit Count
 [![](https://visitor-badge.laobi.icu/badge?page_id=Pretexts.Pretexts)](https://visitor-badge.laobi.icu/badge?page_id=Pretexts.Pretexts)
